@@ -31,13 +31,9 @@ class Landing extends Component {
                 >
                   <p className="lead py-5">
                     <b>
-                      The mission of Tent Hut is to Rebuild, Restructure and
-                      Reinforce by keeping veterans moving in a positive
-                      direction
+                     text
                       <br />
-                      by establishing a strong foundation and placing homeless
-                      veterans in homes that we have built through strategic
-                      partnerships
+                    text
                     </b>
                   </p>
                 </div>
@@ -46,7 +42,7 @@ class Landing extends Component {
                   href="/login"
                   className="btn btn-light pmd-ripple-effect btn-lg pmd-btn-raised"
                 >
-                  <b> Lead the Way</b>
+                  <b> Click here</b>
                 </a>
                 <div className="row py-5">
                   <div className="col m-2">
@@ -57,11 +53,7 @@ class Landing extends Component {
                             <div className="card-body">
                               <h2 className="card-title">Members</h2>
                               <p className="card-text">
-                                Looking to become a Member? Host A Hero has made
-                                it easy to go through the verifcation of your
-                                military status. Working with ID.Me we will cut
-                                the hassel of needing addintional forms and
-                                checks.
+                                text
                               </p>
                               <CardLink href="/register">
                                 <b>Become a Member</b>
@@ -95,14 +87,10 @@ class Landing extends Component {
                             <div className="card-body">
                               <h3 className="card-title">Hosting</h3>
                               <p className="card-text">
-                                Do you have a home that you are interested in
-                                sharing your home with a soldier or veteran?
-                                Consider becoming a Host with Host A Hero.
-                                Members are verified through ID me and you get
-                                to choose who stays in your home.{" "}
+                                Text
                               </p>
                               <CardLink href="/register">
-                                <b>Become A Host</b>
+                                <b>Become</b>
                               </CardLink>
                             </div>
                           </div>
