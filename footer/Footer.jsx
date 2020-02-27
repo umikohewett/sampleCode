@@ -21,12 +21,12 @@ class Footer extends Component {
                       <NavItem>
                         <NavLink className="text-white">
                           <a
-                            href="mailto:HostHero@questions.com"
+                            href="mailto:"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-white"
                           >
-                            HostHero@questions.com
+                            ro@questions.com
                           </a>
                         </NavLink>
                       </NavItem>
@@ -44,7 +44,7 @@ class Footer extends Component {
                 <i className="fa fa f099"> </i>
                 <div className="pmd-site-info">
                   <span>
-                    &copy; 2020 <strong>HostAHero</strong>.
+                    &copy; 2020 <strong>ro</strong>.
                   </span>
                 </div>
               </div>
