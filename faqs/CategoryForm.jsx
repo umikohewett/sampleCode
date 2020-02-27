@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { withRouter } from "react-router-dom";
-import logger from "sabio-debug";
+import logger from "debug";
 import PropTypes from "prop-types";
 import { Formik, FastField, Form } from "formik";
 import * as validationSchema from "./catFormValidationSchema";
