@@ -392,15 +392,15 @@ class FAQs extends Component {
                 <div className="row">
                   <div className="col">
                     <p>Not finding the answers your looking for?</p>
-                    <p>Please call us at 1-800-got-quest</p>
+                    <p>Please call us at 1-800-number</p>
                     <p>
                       Email us at:{" "}
                       <a
-                        href="mailto:HostHero@questions.com"
+                        href="mailto:"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        HostHero@questions.com
+                      
                       </a>
                     </p>
                   </div>
