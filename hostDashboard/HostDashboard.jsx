@@ -8,7 +8,7 @@ import SearchReservation from "./SearchReservation";
 import * as reservationService from "../../services/reservationService";
 import Pagination from "react-js-pagination";
 import Footer from "../footer/Footer";
-import logger from "sabio-debug";
+import logger from "debug";
 import swal from "sweetalert2";
 import ReviewsToSend from "../reviews/ReviewsToSend";
 
