@@ -342,7 +342,7 @@ class FAQs extends Component {
               <div className="shadow p-3 mb-5 bg-white rounded col-md">
                 <div className="row">
                   <div className="col-12">
-                    <h1>Host A Hero</h1>
+                    <h1>About Us</h1>
                   </div>
                 </div>
                 <div className="row">
