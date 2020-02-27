@@ -1,16 +1,16 @@
 ﻿using Newtonsoft.Json;
-using Sabio.Data;
-using Sabio.Data.Providers;
-using Sabio.Models;
-using Sabio.Models.Domain;
-using Sabio.Models.Requests;
-using Sabio.Models.Requests.Messages;
+using Data;
+using Data.Providers;
+using Models;
+using Models.Domain;
+using Models.Requests;
+using Models.Requests.Messages;
 using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace Sabio.Services
+namespace Services
 {
     public class ListingReservationsService : IListingReservationsService
     {
