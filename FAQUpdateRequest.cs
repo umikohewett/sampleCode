@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace Sabio.Models.Requests.FAQs
+namespace Models.Requests.FAQs
 {
    public class FAQUpdateRequest : FAQAddRequest, IModelIdentifier
     {
