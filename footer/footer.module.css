@@ -1,0 +1,16 @@
+.footer {
+  color: black;
+  width: flex;
+  padding-top: 50px;
+  position: relative;
+}
+
+.footerContainer {
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.footer a:hover {
+  color: #3f2a14;
+}

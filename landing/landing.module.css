@@ -1,0 +1,11 @@
+.container {
+  background-image: url(https://images.pexels.com/photos/40820/military-men-departing-service-uniform-40820.jpeg?cs=srgb&dl=sea-people-service-uniform-40820.jpg&fm=jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.cardContainer a:hover {
+    color: #3f2a14;
+}
+

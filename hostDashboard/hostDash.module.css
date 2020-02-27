@@ -1,0 +1,32 @@
+.Nav {
+  padding: 25px;
+}
+
+.pmd_intro_bg_img {
+  width: flex;
+  height: flex;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.cardContainer {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.outerCard {
+  padding: 15px;
+  position: relative;
+}
+
+.resCard {
+  width: 350px;
+  height: 400px;
+}
+
+.image {
+  height: 250px;
+  width: 100%;
+  object-fit: cover;
+}

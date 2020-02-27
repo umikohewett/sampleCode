@@ -1,0 +1,136 @@
+.formBtnTemp {
+	padding: .275rem 1.5rem;
+	font-size: .8rem;
+	line-height: 1.5;
+	color: #fff;
+	background-color: #556b2f;
+	border-color: black;
+	border-radius: 30px;
+}
+
+.icon {
+	width: 65px;
+	height: 55px;
+
+}
+
+.titleSubHeading {
+	padding-left: 15px;
+}
+
+.form {
+
+	padding-left: 35px;
+	padding-right: 35px;
+	padding-bottom: 50px;
+}
+
+.renderForm {
+	padding-top: 50px;
+	padding-left: 35px;
+	padding-right: 35px;
+}
+
+
+
+.contactBox {
+	padding-left: 50px;
+	padding-right: 35px;
+
+}
+
+.aboutCard {
+	padding-top: 55px;
+	width: 600px;
+	position: relative;
+}
+
+.singleFAQToggleBtn {
+	width: 310px;
+	font-size: .8rem;
+	line-height: 1.5;
+	color: #fff;
+	background-color: #556b2f;
+	border-color: black;
+	border-radius: 30px;
+
+}
+
+
+.outeraccordion {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.accordion {
+	padding-top: 25px;
+	padding-left: 25px;
+	padding-right: 25px;
+
+}
+
+
+.editBtn {
+	padding: .275rem 1rem;
+	font-size: .8rem;
+	line-height: 1.5;
+	color: #fff;
+	background-color: teal;
+	border-color: teal;
+	border-radius: 30px;
+	align-items: center;
+}
+
+.deleteBtn {
+	padding: .275rem 1rem;
+	font-size: .8rem;
+	line-height: 1.5;
+	color: #fff;
+	background-color: red;
+	border-color: red;
+	border-radius: 30px;
+	align-items: center;
+
+}
+
+.up_faq_form_card {
+	padding-left: 35px;
+	padding-right: 35px;
+	padding-bottom: 30px;
+}
+
+.submitBtn {
+	padding: .275rem 1rem;
+	font-size: .8rem;
+	line-height: 1.5;
+	color: #fff;
+	background-color: #556b2f;
+	border-color: #556b2f;
+	border-radius: 30px;
+
+
+}
+
+.cnclBtn {
+	padding: .275rem 1rem;
+	font-size: .8rem;
+	line-height: 1.5;
+	color: #fff;
+	background-color: grey;
+	border-color: grey;
+	border-radius: 30px;
+	float: "right"
+}
+
+.catDltBtn {
+
+	padding-left: 1000px;
+
+}
+
+
+
+.mappedFaqCards {
+	padding-bottom: 35px;
+
+}
