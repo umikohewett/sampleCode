@@ -10,7 +10,7 @@ import {
 } from "reactstrap";
 import FAQsForm from "./FAQsForm";
 import CategoryForm from "./CategoryForm";
-import logger from "sabio-debug";
+import logger from "debug";
 import SingleFAQ from "./SingleFAQ";
 import * as faqService from "../../services/faqService";
 import styles from "./faqs.module.css";
