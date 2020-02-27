@@ -3,7 +3,7 @@ import { InputGroup, InputGroupAddon, Input, Button } from "reactstrap";
 import PropTypes from "prop-types";
 import * as reservationService from "../../services/reservationService";
 import { toast } from "react-toastify";
-import logger from "sabio-debug";
+import logger from "debug";
 import { withRouter } from "react-router-dom";
 
 const _logger = logger.extend("SearchReservation");
