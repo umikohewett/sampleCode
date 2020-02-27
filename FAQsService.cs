@@ -1,9 +1,9 @@
-﻿using Sabio.Data;
-using Sabio.Data.Providers;
-using Sabio.Models;
-using Sabio.Models.Domain;
-using Sabio.Models.Requests.FaqCategories;
-using Sabio.Models.Requests.FAQs;
+﻿using Data;
+using Data.Providers;
+using Models;
+using Models.Domain;
+using Models.Requests.FaqCategories;
+using Models.Requests.FAQs;
 using System;
 using System.Collections.Generic;
 using System.Data;
